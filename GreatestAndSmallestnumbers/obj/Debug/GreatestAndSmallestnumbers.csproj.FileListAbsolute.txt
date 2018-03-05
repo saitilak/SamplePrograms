@@ -1,0 +1,6 @@
+D:\QAdotnet\Program1\GreatestAndSmallestnumbers\bin\Debug\GreatestAndSmallestnumbers.exe.config
+D:\QAdotnet\Program1\GreatestAndSmallestnumbers\bin\Debug\GreatestAndSmallestnumbers.exe
+D:\QAdotnet\Program1\GreatestAndSmallestnumbers\bin\Debug\GreatestAndSmallestnumbers.pdb
+D:\QAdotnet\Program1\GreatestAndSmallestnumbers\obj\Debug\GreatestAndSmallestnumbers.csprojResolveAssemblyReference.cache
+D:\QAdotnet\Program1\GreatestAndSmallestnumbers\obj\Debug\GreatestAndSmallestnumbers.exe
+D:\QAdotnet\Program1\GreatestAndSmallestnumbers\obj\Debug\GreatestAndSmallestnumbers.pdb

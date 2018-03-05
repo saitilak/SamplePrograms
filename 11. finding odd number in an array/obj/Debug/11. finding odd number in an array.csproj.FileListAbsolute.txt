@@ -1,0 +1,5 @@
+D:\QAdotnet\Program1\11. finding odd number in an array\bin\Debug\_11.finding_odd_number_in_an_array.exe.config
+D:\QAdotnet\Program1\11. finding odd number in an array\bin\Debug\_11.finding_odd_number_in_an_array.exe
+D:\QAdotnet\Program1\11. finding odd number in an array\bin\Debug\_11.finding_odd_number_in_an_array.pdb
+D:\QAdotnet\Program1\11. finding odd number in an array\obj\Debug\_11.finding_odd_number_in_an_array.exe
+D:\QAdotnet\Program1\11. finding odd number in an array\obj\Debug\_11.finding_odd_number_in_an_array.pdb

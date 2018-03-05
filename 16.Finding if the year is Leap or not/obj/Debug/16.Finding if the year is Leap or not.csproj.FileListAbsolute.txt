@@ -1,0 +1,6 @@
+D:\QAdotnet\Program1\16.Finding if the year is Leap or not\bin\Debug\16.Finding if the year is Leap or not.exe.config
+D:\QAdotnet\Program1\16.Finding if the year is Leap or not\bin\Debug\16.Finding if the year is Leap or not.exe
+D:\QAdotnet\Program1\16.Finding if the year is Leap or not\bin\Debug\16.Finding if the year is Leap or not.pdb
+D:\QAdotnet\Program1\16.Finding if the year is Leap or not\obj\Debug\16.Finding if the year is Leap or not.csprojResolveAssemblyReference.cache
+D:\QAdotnet\Program1\16.Finding if the year is Leap or not\obj\Debug\16.Finding if the year is Leap or not.exe
+D:\QAdotnet\Program1\16.Finding if the year is Leap or not\obj\Debug\16.Finding if the year is Leap or not.pdb

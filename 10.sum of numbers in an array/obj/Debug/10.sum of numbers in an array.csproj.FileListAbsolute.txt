@@ -1,0 +1,5 @@
+D:\QAdotnet\Program1\10.sum of numbers in an array\bin\Debug\10.sum of numbers in an array.exe.config
+D:\QAdotnet\Program1\10.sum of numbers in an array\bin\Debug\10.sum of numbers in an array.exe
+D:\QAdotnet\Program1\10.sum of numbers in an array\bin\Debug\10.sum of numbers in an array.pdb
+D:\QAdotnet\Program1\10.sum of numbers in an array\obj\Debug\10.sum of numbers in an array.exe
+D:\QAdotnet\Program1\10.sum of numbers in an array\obj\Debug\10.sum of numbers in an array.pdb

@@ -1,0 +1,6 @@
+D:\QAdotnet\Program1\13.Mathematical operation by taking input from user\bin\Debug\13.Mathematical operation by taking input from user.exe.config
+D:\QAdotnet\Program1\13.Mathematical operation by taking input from user\bin\Debug\13.Mathematical operation by taking input from user.exe
+D:\QAdotnet\Program1\13.Mathematical operation by taking input from user\bin\Debug\13.Mathematical operation by taking input from user.pdb
+D:\QAdotnet\Program1\13.Mathematical operation by taking input from user\obj\Debug\14.Mathematical operation by taking input from user.csprojResolveAssemblyReference.cache
+D:\QAdotnet\Program1\13.Mathematical operation by taking input from user\obj\Debug\13.Mathematical operation by taking input from user.exe
+D:\QAdotnet\Program1\13.Mathematical operation by taking input from user\obj\Debug\13.Mathematical operation by taking input from user.pdb

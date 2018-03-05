@@ -1,0 +1,6 @@
+D:\QAdotnet\Program1\18.Program to check if a triangle can be formed\bin\Debug\18.Program to check if a triangle can be formed.exe.config
+D:\QAdotnet\Program1\18.Program to check if a triangle can be formed\bin\Debug\18.Program to check if a triangle can be formed.exe
+D:\QAdotnet\Program1\18.Program to check if a triangle can be formed\bin\Debug\18.Program to check if a triangle can be formed.pdb
+D:\QAdotnet\Program1\18.Program to check if a triangle can be formed\obj\Debug\18.Program to check if a triangle can be formed.csprojResolveAssemblyReference.cache
+D:\QAdotnet\Program1\18.Program to check if a triangle can be formed\obj\Debug\18.Program to check if a triangle can be formed.exe
+D:\QAdotnet\Program1\18.Program to check if a triangle can be formed\obj\Debug\18.Program to check if a triangle can be formed.pdb

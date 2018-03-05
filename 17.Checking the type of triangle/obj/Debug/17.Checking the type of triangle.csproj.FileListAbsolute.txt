@@ -1,0 +1,6 @@
+D:\QAdotnet\Program1\17.Checking the type of triangle\bin\Debug\17.Checking the type of triangle.exe.config
+D:\QAdotnet\Program1\17.Checking the type of triangle\bin\Debug\17.Checking the type of triangle.exe
+D:\QAdotnet\Program1\17.Checking the type of triangle\bin\Debug\17.Checking the type of triangle.pdb
+D:\QAdotnet\Program1\17.Checking the type of triangle\obj\Debug\17.Checking the type of triangle.csprojResolveAssemblyReference.cache
+D:\QAdotnet\Program1\17.Checking the type of triangle\obj\Debug\17.Checking the type of triangle.exe
+D:\QAdotnet\Program1\17.Checking the type of triangle\obj\Debug\17.Checking the type of triangle.pdb

@@ -1,0 +1,6 @@
+D:\QAdotnet\Program1\13. print a right angled triangle\bin\Debug\_13.print_a_right_angled_triangle.exe.config
+D:\QAdotnet\Program1\13. print a right angled triangle\bin\Debug\_13.print_a_right_angled_triangle.exe
+D:\QAdotnet\Program1\13. print a right angled triangle\bin\Debug\_13.print_a_right_angled_triangle.pdb
+D:\QAdotnet\Program1\13. print a right angled triangle\obj\Debug\13. print a right angled triangle.csprojResolveAssemblyReference.cache
+D:\QAdotnet\Program1\13. print a right angled triangle\obj\Debug\_13.print_a_right_angled_triangle.exe
+D:\QAdotnet\Program1\13. print a right angled triangle\obj\Debug\_13.print_a_right_angled_triangle.pdb

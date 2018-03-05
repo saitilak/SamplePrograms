@@ -1,0 +1,6 @@
+D:\QAdotnet\Program1\19.To verify if a given character is a vowel or consonant\bin\Debug\19.To verify if a given character is a vowel or consonant.exe.config
+D:\QAdotnet\Program1\19.To verify if a given character is a vowel or consonant\bin\Debug\19.To verify if a given character is a vowel or consonant.exe
+D:\QAdotnet\Program1\19.To verify if a given character is a vowel or consonant\bin\Debug\19.To verify if a given character is a vowel or consonant.pdb
+D:\QAdotnet\Program1\19.To verify if a given character is a vowel or consonant\obj\Debug\19.To verify if a given character is a vowel or consonant.csprojResolveAssemblyReference.cache
+D:\QAdotnet\Program1\19.To verify if a given character is a vowel or consonant\obj\Debug\19.To verify if a given character is a vowel or consonant.exe
+D:\QAdotnet\Program1\19.To verify if a given character is a vowel or consonant\obj\Debug\19.To verify if a given character is a vowel or consonant.pdb

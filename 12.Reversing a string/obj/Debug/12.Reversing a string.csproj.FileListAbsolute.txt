@@ -1,0 +1,6 @@
+D:\QAdotnet\Program1\12.Reversing a string\bin\Debug\12.Reversing a string.exe.config
+D:\QAdotnet\Program1\12.Reversing a string\bin\Debug\12.Reversing a string.exe
+D:\QAdotnet\Program1\12.Reversing a string\bin\Debug\12.Reversing a string.pdb
+D:\QAdotnet\Program1\12.Reversing a string\obj\Debug\12.Reversing a string.csprojResolveAssemblyReference.cache
+D:\QAdotnet\Program1\12.Reversing a string\obj\Debug\12.Reversing a string.exe
+D:\QAdotnet\Program1\12.Reversing a string\obj\Debug\12.Reversing a string.pdb

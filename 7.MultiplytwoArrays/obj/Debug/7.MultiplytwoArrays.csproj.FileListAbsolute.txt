@@ -1,0 +1,6 @@
+D:\QAdotnet\Program1\7.MultiplytwoArrays\bin\Debug\7.MultiplytwoArrays.exe.config
+D:\QAdotnet\Program1\7.MultiplytwoArrays\bin\Debug\7.MultiplytwoArrays.exe
+D:\QAdotnet\Program1\7.MultiplytwoArrays\bin\Debug\7.MultiplytwoArrays.pdb
+D:\QAdotnet\Program1\7.MultiplytwoArrays\obj\Debug\7.MultiplytwoArrays.csprojResolveAssemblyReference.cache
+D:\QAdotnet\Program1\7.MultiplytwoArrays\obj\Debug\7.MultiplytwoArrays.exe
+D:\QAdotnet\Program1\7.MultiplytwoArrays\obj\Debug\7.MultiplytwoArrays.pdb

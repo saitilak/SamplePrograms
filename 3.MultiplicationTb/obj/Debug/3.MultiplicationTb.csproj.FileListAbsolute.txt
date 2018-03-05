@@ -1,0 +1,6 @@
+D:\QAdotnet\Program1\3.MultiplicationTb\bin\Debug\3.MultiplicationTb.exe.config
+D:\QAdotnet\Program1\3.MultiplicationTb\bin\Debug\3.MultiplicationTb.exe
+D:\QAdotnet\Program1\3.MultiplicationTb\bin\Debug\3.MultiplicationTb.pdb
+D:\QAdotnet\Program1\3.MultiplicationTb\obj\Debug\3.MultiplicationTb.csprojResolveAssemblyReference.cache
+D:\QAdotnet\Program1\3.MultiplicationTb\obj\Debug\3.MultiplicationTb.exe
+D:\QAdotnet\Program1\3.MultiplicationTb\obj\Debug\3.MultiplicationTb.pdb

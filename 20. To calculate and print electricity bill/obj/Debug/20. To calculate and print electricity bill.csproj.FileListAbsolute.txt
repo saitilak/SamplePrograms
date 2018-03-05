@@ -1,0 +1,6 @@
+D:\QAdotnet\Program1\20. To calculate and print electricity bill\bin\Debug\_20.To_calculate_and_print_electricity_bill.exe.config
+D:\QAdotnet\Program1\20. To calculate and print electricity bill\obj\Debug\20. To calculate and print electricity bill.csprojResolveAssemblyReference.cache
+D:\QAdotnet\Program1\20. To calculate and print electricity bill\bin\Debug\_20.To_calculate_and_print_electricity_bill.exe
+D:\QAdotnet\Program1\20. To calculate and print electricity bill\bin\Debug\_20.To_calculate_and_print_electricity_bill.pdb
+D:\QAdotnet\Program1\20. To calculate and print electricity bill\obj\Debug\_20.To_calculate_and_print_electricity_bill.exe
+D:\QAdotnet\Program1\20. To calculate and print electricity bill\obj\Debug\_20.To_calculate_and_print_electricity_bill.pdb

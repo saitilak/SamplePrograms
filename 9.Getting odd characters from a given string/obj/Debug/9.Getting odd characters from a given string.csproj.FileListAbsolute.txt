@@ -1,0 +1,6 @@
+D:\QAdotnet\Program1\9.Getting odd characters from a given string\bin\Debug\9.Getting odd characters from a given string.exe.config
+D:\QAdotnet\Program1\9.Getting odd characters from a given string\bin\Debug\9.Getting odd characters from a given string.exe
+D:\QAdotnet\Program1\9.Getting odd characters from a given string\bin\Debug\9.Getting odd characters from a given string.pdb
+D:\QAdotnet\Program1\9.Getting odd characters from a given string\obj\Debug\9.Getting odd characters from a given string.csprojResolveAssemblyReference.cache
+D:\QAdotnet\Program1\9.Getting odd characters from a given string\obj\Debug\9.Getting odd characters from a given string.exe
+D:\QAdotnet\Program1\9.Getting odd characters from a given string\obj\Debug\9.Getting odd characters from a given string.pdb
