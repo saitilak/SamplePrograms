@@ -90,6 +90,7 @@ namespace _20.To_calculate_and_print_electricity_bill
             }
 
             Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }

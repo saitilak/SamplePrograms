@@ -10,6 +10,7 @@ namespace _21.Program_to_print_number_of_days_in_a_month
     {
         static void Main(string[] args)
         {
+            Console.ReadLine();
         }
     }
 }
