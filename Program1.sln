@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24. Program to print n odd 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25. Program to print a right angled triangle in a given format", "25. Program to print a right angled triangle in a given format\25. Program to print a right angled triangle in a given format.csproj", "{C9A18788-0757-4261-BC2D-A85999D7045A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26. Program to print a different right angle triangle", "25. Program to print a different right angle triangle\26. Program to print a different right angle triangle.csproj", "{5BA3B29E-9B0C-4074-9626-ABAFFE211943}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{C9A18788-0757-4261-BC2D-A85999D7045A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9A18788-0757-4261-BC2D-A85999D7045A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9A18788-0757-4261-BC2D-A85999D7045A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BA3B29E-9B0C-4074-9626-ABAFFE211943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BA3B29E-9B0C-4074-9626-ABAFFE211943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BA3B29E-9B0C-4074-9626-ABAFFE211943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BA3B29E-9B0C-4074-9626-ABAFFE211943}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
