@@ -22,7 +22,7 @@ namespace _13.print_a_right_angled_triangle
                 {
                     Console.Write(number);
                 }
-                Console.Write("\n");
+                Console.Write(" ");
             }
         //    string a;
         //    a=Console.ReadLine();
