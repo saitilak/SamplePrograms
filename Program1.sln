@@ -61,6 +61,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27. Program to print anothe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28. Print equilateral triangle", "28. Print equilateral triangle\28. Print equilateral triangle.csproj", "{DBC5764F-90DC-4D49-964A-02E2280F3B86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29. Program to print factorial of a given number", "29. Program to print factorial of a given number\29. Program to print factorial of a given number.csproj", "{AB7C47D2-C5E7-40CA-9622-E201F9B4268C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30. Program to print sum of n terms of a series", "30. Program to print sum of n terms of a series\30. Program to print sum of n terms of a series.csproj", "{6A901CC1-BA61-429E-9C06-D908B2364F45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +187,14 @@ Global
 		{DBC5764F-90DC-4D49-964A-02E2280F3B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBC5764F-90DC-4D49-964A-02E2280F3B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBC5764F-90DC-4D49-964A-02E2280F3B86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB7C47D2-C5E7-40CA-9622-E201F9B4268C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7C47D2-C5E7-40CA-9622-E201F9B4268C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7C47D2-C5E7-40CA-9622-E201F9B4268C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7C47D2-C5E7-40CA-9622-E201F9B4268C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A901CC1-BA61-429E-9C06-D908B2364F45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A901CC1-BA61-429E-9C06-D908B2364F45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A901CC1-BA61-429E-9C06-D908B2364F45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A901CC1-BA61-429E-9C06-D908B2364F45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
