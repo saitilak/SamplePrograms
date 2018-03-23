@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26. Program to print a diff
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27. Program to print another right angled triangle", "27. Program to print another right angled triangle\27. Program to print another right angled triangle.csproj", "{A7DBDCBC-A0DA-41EB-B38A-C8E3298EC3FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28. Print equilateral triangle", "28. Print equilateral triangle\28. Print equilateral triangle.csproj", "{DBC5764F-90DC-4D49-964A-02E2280F3B86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +179,10 @@ Global
 		{A7DBDCBC-A0DA-41EB-B38A-C8E3298EC3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7DBDCBC-A0DA-41EB-B38A-C8E3298EC3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7DBDCBC-A0DA-41EB-B38A-C8E3298EC3FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBC5764F-90DC-4D49-964A-02E2280F3B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC5764F-90DC-4D49-964A-02E2280F3B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC5764F-90DC-4D49-964A-02E2280F3B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC5764F-90DC-4D49-964A-02E2280F3B86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
