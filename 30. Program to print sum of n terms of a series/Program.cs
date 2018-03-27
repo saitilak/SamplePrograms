@@ -20,8 +20,10 @@ namespace _30.Program_to_print_sum_of_n_terms_of_a_series
                 {
                     double temporary = Convert.ToDouble(1 / i);
                     sum = sum + temporary;
+                    Console.WriteLine(i);
+                    Console.WriteLine("Sum of entered terms is: " + sum);
                 }
-                Console.WriteLine("Sum onf entered terms is: " + sum);
+                //Console.WriteLine("Sum onf entered terms is: " + sum);
             }
             else
             {
