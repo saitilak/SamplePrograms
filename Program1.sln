@@ -67,6 +67,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30. Program to print sum of
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31. Program to print floyd triangle", "31. Program to print floyd triangle\31. Program to print floyd triangle.csproj", "{E4A8C66E-B160-4EF3-9378-D65D588A11D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session Practice1", "Session Practice1\Session Practice1.csproj", "{83DC8F15-9DF4-4B68-8607-65B3E8B1C1A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32.Program to find if a number is perfect number", "32.Program to find if a number is perfect number\32.Program to find if a number is perfect number.csproj", "{DA22D4FE-6416-4DB3-A2E6-DA9D3D8E7E6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +205,14 @@ Global
 		{E4A8C66E-B160-4EF3-9378-D65D588A11D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4A8C66E-B160-4EF3-9378-D65D588A11D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4A8C66E-B160-4EF3-9378-D65D588A11D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83DC8F15-9DF4-4B68-8607-65B3E8B1C1A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83DC8F15-9DF4-4B68-8607-65B3E8B1C1A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83DC8F15-9DF4-4B68-8607-65B3E8B1C1A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83DC8F15-9DF4-4B68-8607-65B3E8B1C1A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA22D4FE-6416-4DB3-A2E6-DA9D3D8E7E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA22D4FE-6416-4DB3-A2E6-DA9D3D8E7E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA22D4FE-6416-4DB3-A2E6-DA9D3D8E7E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA22D4FE-6416-4DB3-A2E6-DA9D3D8E7E6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
