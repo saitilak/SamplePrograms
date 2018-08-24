@@ -71,6 +71,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session Practice1", "Sessio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32.Program to find if a number is perfect number", "32.Program to find if a number is perfect number\32.Program to find if a number is perfect number.csproj", "{DA22D4FE-6416-4DB3-A2E6-DA9D3D8E7E6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33. Program to find if a number is Armstrong", "33. Program to find if a number is Armstrong\33. Program to find if a number is Armstrong.csproj", "{DC389710-D7E0-4717-B4C4-FBDBF506B6E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{CBDF0BCD-ADA4-4ADF-B1A4-D6659690CB32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewCalculator", "NewCalculator\NewCalculator.csproj", "{13773960-9FC8-4488-B213-1E7B9077BD15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +219,18 @@ Global
 		{DA22D4FE-6416-4DB3-A2E6-DA9D3D8E7E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA22D4FE-6416-4DB3-A2E6-DA9D3D8E7E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA22D4FE-6416-4DB3-A2E6-DA9D3D8E7E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC389710-D7E0-4717-B4C4-FBDBF506B6E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC389710-D7E0-4717-B4C4-FBDBF506B6E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC389710-D7E0-4717-B4C4-FBDBF506B6E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC389710-D7E0-4717-B4C4-FBDBF506B6E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBDF0BCD-ADA4-4ADF-B1A4-D6659690CB32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBDF0BCD-ADA4-4ADF-B1A4-D6659690CB32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBDF0BCD-ADA4-4ADF-B1A4-D6659690CB32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBDF0BCD-ADA4-4ADF-B1A4-D6659690CB32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13773960-9FC8-4488-B213-1E7B9077BD15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13773960-9FC8-4488-B213-1E7B9077BD15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13773960-9FC8-4488-B213-1E7B9077BD15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13773960-9FC8-4488-B213-1E7B9077BD15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

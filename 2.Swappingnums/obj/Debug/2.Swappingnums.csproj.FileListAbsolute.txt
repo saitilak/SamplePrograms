@@ -3,3 +3,4 @@ D:\QAdotnet\Program1\2.Swappingnums\bin\Debug\2.Swappingnums.exe
 D:\QAdotnet\Program1\2.Swappingnums\bin\Debug\2.Swappingnums.pdb
 D:\QAdotnet\Program1\2.Swappingnums\obj\Debug\2.Swappingnums.exe
 D:\QAdotnet\Program1\2.Swappingnums\obj\Debug\2.Swappingnums.pdb
+D:\QAdotnet\Program1\2.Swappingnums\obj\Debug\2.Swappingnums.csprojResolveAssemblyReference.cache
